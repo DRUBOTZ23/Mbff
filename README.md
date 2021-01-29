@@ -25,7 +25,7 @@ git clone https://github.com/Dru-230/Mbf
 ````
 cd Mbf
 ls
-python2 Mbf.py
+python2 Crackv1.py
 ````
 ###  My Social Media
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/github.com/Dru-230)
